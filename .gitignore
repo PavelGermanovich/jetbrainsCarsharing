@@ -1,0 +1,15 @@
+14 lines (10 sloc)  308 Bytes
+
+.gradle
+/build/
+/src/main/java/org/jetbrains/carsharing/db/
+.idea/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
